@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3e3e3e</color>
+    <color name="colorPrimaryDark">#3e3e3e</color>
+    <color name="colorAccent">#ECECEC</color>
+
+    <color name="tintBg">#33000000</color>
+    <color name="tintBgDark">#83000000</color>
+    <color name="tintBgWhite">#B0FFFFFF</color>
+    <color name="tintMenu">#C0C0C0</color>
+    <color name="statusBarBg">#4DFFFFFF</color>
+    <color name="dividerColor">#9A777777</color>
+</resources>
